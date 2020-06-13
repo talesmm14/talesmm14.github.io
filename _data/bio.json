@@ -9,7 +9,7 @@
     "summary": "Estudo Sistemas de Informações na Universidade Estadual do Tocantins - UNITINS. Espero me formar no final de 2021.",
     "location": {
       "address": "",
-      "postalCode": "77260000",
+      "postalCode": "77260-000",
       "city": "Palmas",
       "countryCode": "Brasil",
       "region": "Tocantins"
@@ -32,7 +32,7 @@
       }
     ]
   },
-  "interests": [
+  "interesses": [
     {
       "name": "internet of things",
       "keywords": [
@@ -77,7 +77,7 @@
       ]
     }
   ],
-  "education": [
+  "educação": [
     {
       "institution": "Universidade Estadual do Tocantins - UNITINS",
       "area": "Sistemas de Informação (Final de 2021)",
