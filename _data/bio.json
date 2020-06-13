@@ -68,12 +68,12 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Ferramentas/OS",
       "level": "",
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
-        "g++"
+        "Windows"
       ]
     }
   ],
