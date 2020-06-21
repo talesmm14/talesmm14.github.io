@@ -86,34 +86,48 @@
       "endDate": "2021",
       "gpa": "",
       "courses": [
+        "Lógica de programação – SENAI TO",
+        "CURSO DE INGLÊS PARA FINS ACADÊMICOS - TURMA II 02/2019",
+        "I COLÓQUIO DE EXTENSÃO, ENSINO EPESQUISA DA UNITINS - 14/06/2017,",
+        "XXIV JORNADA DE INICIAÇÃO CIENTÍFICA 2017 - 24 a 25 08/2017"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Colégio Estadual Duque de Caxias",
+      "position": "Manutenção e Suporte de Informática",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018/02",
+      "endDate": "2018/10",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "assistência na administração da rede de computadores",
+        "suporte aos usuários nos aspectos de hardware e software envolvendo a montagem, reparos e configurações."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Tradutor Voluntário",
+      "website": "https://play.google.com/store/apps/details?id=com.grigtod.zenbuild&hl=en",
+      "position": "Tradutor",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Tradução do jogo Quebra-cabeças Zen Build de Inglês para Português.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "Busque Amiginho",
+      "website": "https://busqueamiguinho.herokuapp.com/",
+      "position": "Programador",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Programdor voluntario no projeto Busque Amiginho.",
+      "highlights": [
+        "Criação do banco de dados em PostgreSQL.",
+        "Criação da base do projeto em Django, parte do usuário."
       ]
     }
   ],
