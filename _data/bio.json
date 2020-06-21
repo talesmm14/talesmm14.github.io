@@ -34,26 +34,24 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "mineração e análise de dados",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Python",
+        "jupyter notebook",
+        "R",
+        "Dados meteorológicos históricos",
+        "Dados Covid-19"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Inteligência artificial",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
@@ -61,10 +59,9 @@
         "C#",
         "Java",
         "Python",
+        "R",
         "Lua",
-        "Go",
-        "Django",
-        "Rest Api"
+        "Go"
       ]
     },
     {
@@ -73,7 +70,17 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
-        "Windows"
+        "Windows",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name":"Frameworks",
+      "level": "",
+      "keywords": [
+        "Django",
+        "Flutter",
+        "Django Rest API"
       ]
     }
   ],
@@ -86,10 +93,25 @@
       "endDate": "2021",
       "gpa": "",
       "courses": [
-        "Lógica de programação – SENAI TO",
         "CURSO DE INGLÊS PARA FINS ACADÊMICOS - TURMA II 02/2019",
         "I COLÓQUIO DE EXTENSÃO, ENSINO EPESQUISA DA UNITINS - 14/06/2017,",
-        "XXIV JORNADA DE INICIAÇÃO CIENTÍFICA 2017 - 24 a 25 08/2017"
+        "XXV JORNADA DE INICIAÇÃO CIENTÍFICA - 16 a 19 de 10/2018",
+        "XXIV JORNADA DE INICIAÇÃO CIENTÍFICA 2017 - 24 a 25 08/2017",
+        "VII SEMANA ACADÊMICA DA UNITINS - 24 a 27 08/2017",
+        "BEM ESTAR ANIMAL X MERCADO CONSUMIDOR - AGROTINS 2019",
+        "TECNOLOGIAS PARA O AGRONEGÓCIO NA ERA DA INDÚSTRIA 4.0 - AGROTINS 2019",
+        "CICLO DE OFICINAS TÉCNICAS - CURSO DE SISTEMAS DE INFORMAÇÃO - 5 a 7 06/2019"
+      ]
+    },
+    {
+      "institution": "Serviço Nacional de Aprendizagem Industrial (SENAI)",
+      "area": "Lógica de Programação",
+      "studyType": "Curso",
+      "startDate": "22/10/2017",
+      "endDate": "22/10/2017",
+      "gpa": "",
+      "courses": [
+        "Lógica de Programação com carga horária de 14 horas."
       ]
     }
   ],
