@@ -118,11 +118,11 @@
       ]
     },
     {
-      "institution": "Serviço Nacional de Aprendizagem Industrial (SENAI)",
+      "institution": "Serviço Nacional de Aprendizagem Industrial (SENAI) | 10/22/2017",
       "area": "Lógica de Programação",
       "studyType": "Curso",
       "startDate": "",
-      "endDate": "10-22-2017",
+      "endDate": "",
       "gpa": "",
       "courses": [
         "Lógica de Programação com carga horária de 14 horas."
@@ -132,10 +132,10 @@
   "work": [
     {
       "company": "Colégio Estadual Duque de Caxias",
-      "position": "Manutenção e Suporte de Informática",
+      "position": "Manutenção e Suporte de Informática | 01/02/2018 a 01/10/2018",
       "website": "",
-      "startDate": "02-01-2018",
-      "endDate": "10-01-2018",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "assistência na administração da rede de computadores",
