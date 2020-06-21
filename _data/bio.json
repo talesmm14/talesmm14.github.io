@@ -104,6 +104,20 @@
       ]
     },
     {
+      "institution": "Udemy",
+      "area": "A Udemy é uma plataforma EAD, criada por Eren Bali, de e-learning para profissionais poderem tanto estudar como ensinar.",
+      "studyType": "Cursos",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Go (Golang): Explorando a Linguagem do Google | Leonardo Moura Leitao",
+        "Desenvolva uma aplicação com Django 2.0 e deploy no Heroku | Gregory Pacheco",
+        "Criando poderosas API's RESTful com Django Rest Framework | Gregory Pacheco",
+        "Criação de Apps Android e iOS com Flutter - Crie 16 Apps | Daniel Ciolfi"
+      ]
+    },
+    {
       "institution": "Serviço Nacional de Aprendizagem Industrial (SENAI)",
       "area": "Lógica de Programação",
       "studyType": "Curso",
