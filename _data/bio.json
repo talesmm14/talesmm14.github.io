@@ -156,7 +156,10 @@
     },
     {
       "organization": "Busque Amiginho",
-      "website": "https://busqueamiguinho.herokuapp.com/",
+      "website": [
+        "https://busqueamiguinho.herokuapp.com/",
+        "https://github.com/talesmm14/Busque-o-seu-amiguinho"
+      ],
       "position": "Programador",
       "startDate": "",
       "endDate": "",
