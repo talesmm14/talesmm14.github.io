@@ -161,10 +161,7 @@
     },
     {
       "organization": "Busque Amiginho",
-      "website": [
-        "https://busqueamiguinho.herokuapp.com/",
-        "https://github.com/talesmm14/Busque-o-seu-amiguinho"
-      ],
+      "website": "https://github.com/talesmm14/Busque-o-seu-amiguinho",
       "position": "Programador",
       "startDate": "",
       "endDate": "",
@@ -172,6 +169,27 @@
       "highlights": [
         "Criação do banco de dados em PostgreSQL.",
         "Criação da base do projeto em Django, parte do usuário."
+      ]
+    },
+    {
+      "organization": "Centro Acadêmico de Sistema de informação - UNITINS",
+      "website": "https://www.instagram.com/casiunitins/",
+      "position": "Presidente",
+      "startDate": "30-11-2018",
+      "endDate": "30-11-2019",
+      "summary": "Presidente do Centro Acadêmico do meu curso de Sistemas de Informação na UNITINS Campus Palmas.",
+      "highlights": [
+        "30/11/2018 - 30/11/2019"
+      ]
+    },
+    {
+      "organization": "Diretório Central dos Estudantes (DCE) - UNITINS",
+      "website": "https://www.instagram.com/dceunitins/",
+      "position": "Secretário de comunicação",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Responsável pelas ações de comunicação do DCE chapa: Não me calo.",
+      "highlights": [
       ]
     }
   ],
