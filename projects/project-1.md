@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/valoraseg.jpg
 title: Sistema web e API- ValoraSeg
 permalink: projects/valoraseg
 # All dates must be YYYY-MM-DD format!
@@ -12,12 +12,12 @@ labels:
 summary: Desenvolvi a primeira versão da API Rest e seu sistema Web de gerenciamento do aplicativo ValoraSeg da SSP-TO. 
 ---
 
-# <div class="ui small rounded images">
-#  <img class="ui image" src="../images/micromouse-robot.png">
+ <div class="ui small rounded images">
+  <img class="ui image" src="../images/valoraseg.png">
 #  <img class="ui image" src="../images/micromouse-robot-2.jpg">
 #  <img class="ui image" src="../images/micromouse.jpg">
 #  <img class="ui image" src="../images/micromouse-circuit.png">
-# </div>
+ </div>
 
 
 # ```js
