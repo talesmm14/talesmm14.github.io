@@ -18,10 +18,10 @@ summary: Participei do projeto de código aberto Busque Amiguinho, mini rede soc
 
 <img class="ui medium right floated rounded image" src="../images/busqueamiguinho.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Busque Amiguinho foi um projeto iniciado por alguns desconhecidos durante uma live no twitch no canal do [jmarcolan] (https://www.twitch.tv/jmarcolan), a ideia e uma mini rede social onde você pode encontrar amigos para seus estudos e projetos.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Feito em Django e de código aberto, foi feito inteiramente sem fins lucrativos e pensado em ser um produto minimo viável sem muita pretensão.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Você pode acessar e usar o [Buque Amiguinho](https://busqueamiguinho.herokuapp.com) de forma gratuita em qualquer plataforma com acesso a internet. 
  
 Código: <a href="https://github.com/talesmm14/Busque-o-seu-amiguinho"><i class="large github icon"></i>Busque Amiguinho</a>
