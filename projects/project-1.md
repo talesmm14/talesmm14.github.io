@@ -9,6 +9,8 @@ date: 2020-01-01
 labels:
   - Django
   - Rest API
+  - Python
+  - PostgreSQL
 summary: Desenvolvi a primeira versão da API Rest e seu sistema Web de gerenciamento do aplicativo ValoraSeg da SSP-TO. 
 ---
 
