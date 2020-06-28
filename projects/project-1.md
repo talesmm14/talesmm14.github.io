@@ -14,9 +14,6 @@ summary: Desenvolvi a primeira versão da API Rest e seu sistema Web de gerencia
 
  <div class="ui small rounded images">
   <img class="ui image" src="../images/valoraseg.png">
-#  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-#  <img class="ui image" src="../images/micromouse.jpg">
-#  <img class="ui image" src="../images/micromouse-circuit.png">
  </div>
 
 
