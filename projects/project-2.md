@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/busqueamiguinho.png
-title: BusqueAmiginho
+title: Busque Amiginho
 permalink: projects/busqueamiguinho
 All dates must be YYYY-MM-DD format!
 date: 2020-05-01
