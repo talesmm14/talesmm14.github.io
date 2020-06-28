@@ -4,7 +4,7 @@ type: project
 image: images/busqueamiguinho.png
 title: Busque Amiginho
 permalink: projects/busqueamiguinho
-All dates must be YYYY-MM-DD format!
+# All dates must be YYYY-MM-DD format!
 date: 2020-05-01
 labels:
   - Django
