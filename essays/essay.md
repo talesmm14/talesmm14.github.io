@@ -10,7 +10,7 @@
    - Web Server
 ---
 
- <img class="ui tiny left circular floated image" src="../images/virtual-brick.png">
+ <img class="ui medium right floated rounded image" src="../images/virtual-brick.png">
 
  Durante meu processo de amadurecimento no mundo do desenvolvimento, tive contato com o desenvolvimento web e fiquei bastante curioso de como a internet funcionava.
 Para entender como o HTTP funcionava e de como servidores eram construídos, iniciei esse pequeno projeto com o intuito de aprender mais sobre web e servidores.
