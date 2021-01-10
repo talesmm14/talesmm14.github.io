@@ -1,4 +1,4 @@
- ---
+---
  layout: essay
  type: essay
  title: Virtual Brick
@@ -8,7 +8,7 @@
    - HTTP
    - Python
    - Web Server
- ---
+---
 
  <img class="ui tiny left circular floated image" src="../images/virtual-brick.png">
 
