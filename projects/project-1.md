@@ -15,7 +15,7 @@ summary: Desenvolvi a primeira versão da API Rest e seu sistema Web de gerencia
 ---
 
  <div class="ui small rounded images">
-  <img class="ui image" src="../images/valoraseg.jpg">
+  <img class="ui medium right floated rounded img-fluid" src="../images/valoraseg.jpg">
  </div>
 
 Atualmente os profissionais de segurança que sejam expostos a abordagens que envolvam protocolos específicos estão sujeitos a tomar medidas falhas por desconhecimento. Estes capacitados lidam com situações e grupos que exigem dele tomada de decisões assertivas, por isso e importante que tenham em mão estas informações, como lidar em casos de racismos, homofobia, agressão a mulheres, idosos, crianças e adolescentes entre outros.
